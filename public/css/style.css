@@ -1,0 +1,22 @@
+.form {
+    padding-top: 10%;
+    padding-left: 8.54%;
+
+
+}
+.formBtn{
+    display: inline-block;
+
+    text-decoration: none;
+    padding: .8em 5em ;
+
+
+    transition: 0.2s;
+
+    background: #131d38;
+    border-radius: 10px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
